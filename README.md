@@ -123,56 +123,12 @@ seaborn
 scipy
 ```
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/student-performance-eda.git
-
-# Navigate to project directory
-cd student-performance-eda
-
-# Install required packages
-pip install -r requirements.txt
-```
-
-### Usage
-```bash
-# Run the analysis notebook
-jupyter notebook student_performance_analysis.ipynb
-
-# Or run the Python script
-python analysis.py
-```
-
----
-
-## Project Structure
-```
-student-performance-eda/
-│
-├── data/
-│   └── student_performance.csv
-├── notebooks/
-│   └── student_performance_analysis.ipynb
-├── src/
-│   └── analysis.py
-├── visualizations/
-│   └── plots/
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Conclusion
 
 This EDA successfully identified and quantified key factors influencing student academic performance. The findings provide evidence-based insights that can guide institutional decision-making, resource allocation, and the development of targeted intervention programs to improve educational outcomes for all students.
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
